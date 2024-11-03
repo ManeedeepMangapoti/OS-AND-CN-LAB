@@ -1,0 +1,3 @@
+P001,Laptop
+P002,Smartphone
+P003,Tablet
